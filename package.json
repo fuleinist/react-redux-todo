@@ -1,0 +1,24 @@
+{
+  "name": "react-redux-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fuleinist/react-redux-todo.git"
+  },
+  "author": "fuleinist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuleinist/react-redux-todo/issues"
+  },
+  "homepage": "https://github.com/fuleinist/react-redux-todo#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0"
+  }
+}
